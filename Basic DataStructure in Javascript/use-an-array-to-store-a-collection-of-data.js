@@ -1,0 +1,1 @@
+let yourArray=["sdf",1,true,1,true]; // Change this line
