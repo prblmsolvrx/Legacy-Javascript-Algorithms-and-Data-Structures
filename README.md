@@ -9,3 +9,6 @@ Check it out here:
 https://freecodecamp.org/certification/prblmsolvrx/javascript-algorithms-and-data-structures
 
 ![Legacy Javascript Algorithms and Data Structures Certification](https://github.com/prblmsolvrx/Legacy-Javascript-Algorithms-and-Data-Structures/assets/112321235/09f59257-9a2e-4b7d-a18f-55aa8415145a)
+
+![freecodecamp](https://github.com/prblmsolvrx/Legacy-Javascript-Algorithms-and-Data-Structures/assets/112321235/87c812e1-9a07-4b9b-adf6-b5820d23c0e3)
+
